@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CareerMentor</string>
+    <string name="login_title">Login</string>
+    <string name="signup_title">SIGN UP</string>
+    <string-array name="roles_array">
+        <item>Student</item>
+        <item>IndustryProfessional</item>
+    </string-array>
+</resources>

@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CareerMentor" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.CareerMentor" parent="Base.Theme.CareerMentor" />
+    <style name="spinnerTheme">
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="spinnerpopupTheme">
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="ListFont" parent="@android:style/Widget.ListView">
+        <item name="android:textColor">#FF0000</item>
+        <item name="android:typeface">sans</item>
+    </style>
+</resources>
